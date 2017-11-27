@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PDFServer", "..\..\..\..\..\Project\PDFServer\", "{9FE24F5D-D6B6-4256-A74F-A03842F6DF9A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51856"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Project\PDFServer\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51856\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51856"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Project\PDFServer\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51856\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51856"
+		SlnRelativePath = "..\..\..\..\..\Project\PDFServer\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE24F5D-D6B6-4256-A74F-A03842F6DF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE24F5D-D6B6-4256-A74F-A03842F6DF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B362F60-6E18-4311-98A2-4240B0E79187}
+	EndGlobalSection
+EndGlobal
